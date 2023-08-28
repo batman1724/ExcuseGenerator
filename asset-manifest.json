@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ExcuseGenerator/static/css/main.20a2f415.css",
-    "main.js": "/ExcuseGenerator/static/js/main.80cd0e88.js",
+    "main.css": "/ExcuseGenerator/static/css/main.83b880d1.css",
+    "main.js": "/ExcuseGenerator/static/js/main.58601f53.js",
     "static/media/Police_Siren_Emote.webp": "/ExcuseGenerator/static/media/Police_Siren_Emote.1c8ff80f9d3fc37973b6.webp",
     "index.html": "/ExcuseGenerator/index.html",
-    "main.20a2f415.css.map": "/ExcuseGenerator/static/css/main.20a2f415.css.map",
-    "main.80cd0e88.js.map": "/ExcuseGenerator/static/js/main.80cd0e88.js.map"
+    "main.83b880d1.css.map": "/ExcuseGenerator/static/css/main.83b880d1.css.map",
+    "main.58601f53.js.map": "/ExcuseGenerator/static/js/main.58601f53.js.map"
   },
   "entrypoints": [
-    "static/css/main.20a2f415.css",
-    "static/js/main.80cd0e88.js"
+    "static/css/main.83b880d1.css",
+    "static/js/main.58601f53.js"
   ]
 }
